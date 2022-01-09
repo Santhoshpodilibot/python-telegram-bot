@@ -60,7 +60,7 @@ We have a vibrant community of developers helping each other in our `Telegram gr
    :target: https://github.com/psf/black
 
 .. image:: https://img.shields.io/badge/Telegram-Group-blue.svg?logo=telegram
-   :target: https://telegram.me/pythontelegrambotgroup
+   :target: https://t.me/newsstreamer
    :alt: Telegram Group
 
 =================
